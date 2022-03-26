@@ -1,0 +1,36 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #f093fb;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1))
+  }
+
+
+h1.nav{
+
+    height: 50px;
+     text-align: center; 
+     margin: 0 auto;
+     
+}
+
+.center {
+    background-color:#7ad7f0;
+    display: flex;
+    justify-content: center;
+  }
+.nav{
+
+    background-color:#7ad7f0;
+}
+.nav-link{
+
+    color:#b99976;
+}
+.image{
+    width: 100%;
+}
